@@ -1,3 +1,3 @@
 # react-props-practice
 
-Hosted link: celebrated-sprinkles-e68b2d.netlify.app
+<a href="celebrated-sprinkles-e68b2d.netlify.app">Hosted link</a>
